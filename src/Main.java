@@ -4,6 +4,8 @@ public class Main {
 
         System.out.println("Hello World!");
 
-        System.out.println("43");
+        int age = 43;
+
+        System.out.println(age);
     }
 }
