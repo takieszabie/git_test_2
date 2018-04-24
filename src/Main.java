@@ -9,9 +9,16 @@ public class Main {
 
     System.out.println("Hello World!");
     System.out.println("nem értjük mi a baj");
+
+    System.out.println("Hello World!");
+
+    int age = 43;
+
+    System.out.println(age);
   }
 
   private static void greet(String name, String name2) {
     System.out.println("Hello " + name + name2);
   }
+
 }
